@@ -21,3 +21,6 @@ For each country, we proceed in three steps:
     3.we sum over the growth rates of imports weighted by the relative importance of each trading partner.
 
 
+DataSet
+==========
+1.Foreign_demand.CSV
